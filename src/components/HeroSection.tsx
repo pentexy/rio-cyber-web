@@ -34,7 +34,7 @@ const HeroSection = () => {
         </div>
         
         <p className="text-lg md:text-xl text-cyber-green/70 font-space leading-relaxed max-w-2xl mx-auto">
-          Welcome to my digital realm. I craft code, navigate the depths of cybersecurity with passion and precision.
+          मन के जीते जीत है, मन के हारे हार । हार गए जो बिन लड़े, उन पर है धिक्कार ॥ 💗 🦚!
         </p>
       </div>
     </section>
