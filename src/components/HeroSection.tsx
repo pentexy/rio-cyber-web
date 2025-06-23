@@ -8,12 +8,15 @@ const HeroSection = () => {
     <section className="min-h-screen flex items-center justify-center relative px-4">
       <div className="text-center space-y-8 max-w-4xl mx-auto">
         <div className="space-y-4">
-          <h1 className="text-7xl md:text-9xl font-orbitron font-black text-white drop-shadow-2xl relative">
-            <div className="absolute inset-0 text-cyber-green animate-pulse-glow blur-sm">
-              <GlitchText text="I'm The Rio" />
+          <h1 className="text-8xl md:text-[12rem] font-bebas font-black text-white relative">
+            <div className="absolute inset-0 text-cyber-green animate-pulse-glow blur-sm opacity-80">
+              I'M THE RIO
             </div>
             <div className="relative z-10 text-transparent bg-gradient-to-r from-cyber-green via-cyber-blue to-cyber-purple bg-clip-text animate-gradient-shift">
-              <GlitchText text="I'm The Rio" />
+              I'M THE RIO
+            </div>
+            <div className="absolute inset-0 text-cyber-green opacity-20 blur-lg">
+              I'M THE RIO
             </div>
           </h1>
           <div className="h-16 flex items-center justify-center">
