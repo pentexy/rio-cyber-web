@@ -14,7 +14,7 @@ const ContactSection = () => {
         </div>
         
         <p className="text-xl text-cyber-green/80 mb-12 font-space">
-          Ready to collaborate? Let's connect and build something extraordinary together.
+          Let's connect and build something extraordinary together.
         </p>
         
         <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">
