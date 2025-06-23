@@ -13,7 +13,7 @@ const HeroSection = () => {
           </h1>
           <div className="h-16 flex items-center justify-center">
             <TypewriterText 
-              text="Developer • Coder • Bot Architect • Linux Master • Automation Addict • Cybersecurity Enthusiast"
+              text="Developer • Coder • Linux Master • Automation Addict • Cybersecurity Enthusiast"
               delay={1000}
               speed={30}
               className="text-xl md:text-2xl font-space text-cyber-green/90"
@@ -26,7 +26,7 @@ const HeroSection = () => {
         </div>
         
         <p className="text-lg md:text-xl text-cyber-green/70 font-space leading-relaxed max-w-2xl mx-auto">
-          Welcome to my digital realm. I craft code, architect bots, and navigate the depths of cybersecurity with passion and precision.
+          Welcome to my digital realm. I craft code, navigate the depths of cybersecurity with passion and precision.
         </p>
       </div>
     </section>
