@@ -8,7 +8,7 @@ import Footer from '../components/Footer';
 
 const Index = () => {
   return (
-    <div className="min-h-screen bg-sky-200 relative overflow-x-hidden">
+    <div className="min-h-screen bg-cyber-darker relative overflow-x-hidden">
       <MatrixBackground />
       
       <main className="relative z-10">

@@ -1,4 +1,3 @@
-
 import type { Config } from "tailwindcss";
 
 export default {
@@ -143,6 +142,10 @@ export default {
 						opacity: '0.8',
 						textShadow: '0 0 20px #00ff41, 0 0 30px #00ff41'
 					}
+				},
+				'gradient-shift': {
+					'0%, 100%': { backgroundPosition: '0% 50%' },
+					'50%': { backgroundPosition: '100% 50%' }
 				}
 			},
 			animation: {
@@ -154,7 +157,8 @@ export default {
 				'typewriter': 'typewriter 3s steps(40) 1s forwards',
 				'blink': 'blink 1s step-end infinite',
 				'float': 'float 3s ease-in-out infinite',
-				'pulse-glow': 'pulse-glow 2s ease-in-out infinite'
+				'pulse-glow': 'pulse-glow 2s ease-in-out infinite',
+				'gradient-shift': 'gradient-shift 4s ease infinite'
 			}
 		}
 	},
